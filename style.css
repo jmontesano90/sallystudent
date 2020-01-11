@@ -1,0 +1,21 @@
+body{
+    background-color: aliceblue;
+    text-align:center;
+  }
+  
+  .Introduction {
+    text-decoration: underline black;
+  }
+  .Work_Experience {
+    /*text-decoration: underline black;*/
+    box-shadow:inset 0 3px 3px #000c0c;
+    /*border: 3px solid red;*/
+    margin-top: 2px;
+    padding-top: 1px;
+    padding-bottom: 2px;
+  }
+  .Education{
+    font-style: oblique;
+    font-size: 115%;
+    border: 4px pink;
+    }
